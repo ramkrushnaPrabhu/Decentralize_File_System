@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ramkr\\OneDrive\\Desktop\\BlockChain_app\\Dapps_3--Decentralize-file-system\\contracts\\Upload.sol": {
+      "lastModificationDate": 1672588089907,
+      "contentHash": "4f44a2f75575e5ca51f5ba9900ebcfea",
+      "sourceName": "contracts/Upload.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Upload"
+      ]
+    }
+  }
+}
